@@ -1,0 +1,31 @@
+h1{
+    background-color: blue;
+    color: white;
+}
+
+.cal{
+    text-align: center;
+    
+}
+
+
+#txtNumber01{
+    width: 50px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+#txtNumber02{
+    width: 50px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+#operator{
+    width: 50px;
+    background-color: black;
+    color: white;
+    border: none;
+}
